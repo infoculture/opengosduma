@@ -1,0 +1,471 @@
+_id	faction	letter	name	url	vote_stats.absent	vote_stats.abstain	vote_stats.no	vote_stats.yes
+50e111f5052d3f3584b2f932	КПРФ	А	Алимова Ольга Николаевна	/?convocation=AAAAAAA6&deputy=99111779	609	2	91	875
+50e111f5052d3f3584b2f990	СР	Д	Дмитриева Оксана Генриховна	/?convocation=AAAAAAA6&deputy=99100128	549	1	120	907
+50e111f6052d3f3584b2f9fe	ЛДПР	Л	Литвинцев Дмитрий Алексеевич	/?convocation=AAAAAAA6&deputy=99111881	794		12	771
+50e111f6052d3f3584b2fa31	ЛДПР	Н	Нилов Ярослав Евгеньевич	/?convocation=AAAAAAA6&deputy=99110213	763	2	14	798
+50e11568052d3f362813ba06	ЕР	К	Климов Андрей Аркадьевич	/?convocation=AAAAAAA6&deputy=99100647	365		6	462
+50e1156a052d3f362813ba07	ЕР	Я	Яковлева Татьяна Владимировна	/?convocation=AAAAAAA6&deputy=99100670	336		16	406
+50e1156e052d3f362813ba08	ЕР	М	Морозов Олег Викторович	/?convocation=AAAAAAA6&deputy=99100452	335	1	7	301
+50e1156e052d3f362813ba09	ЕР	С	Семёнова Екатерина Юрьевна	/?convocation=AAAAAAA6&deputy=99111051	322		18	304
+50e11577052d3f362813ba0a	ЕР	Б	Бокова Людмила Николаевна	/?convocation=AAAAAAA6&deputy=99111796	117		16	219
+50e11577052d3f362813ba0b	ЕР	З	Зеренков Валерий Георгиевич	/?convocation=AAAAAAA6&deputy=99107555	110		23	219
+50e11577052d3f362813ba0c	ЛДПР	О	Островский Алексей Владимирович	/?convocation=AAAAAAA6&deputy=99100584	170		3	179
+50e11577052d3f362813ba0d	ЕР	Э	Эм Юрий Павлович	/?convocation=AAAAAAA6&deputy=99111979	104		16	232
+50e1157a052d3f362813ba0e	ЕР	К	Канчер Сергей Васильевич	/?convocation=AAAAAAA6&deputy=99112017	77		16	160
+50e1157d052d3f362813ba0f	ЕР	К	Косачев Константин Иосифович	/?convocation=AAAAAAA6&deputy=99100766	54		11	103
+50e1157e052d3f362813ba10	ЕР	П	Прокопенко Тимур Валентинович	/?convocation=AAAAAAA6&deputy=99110429	44		11	91
+50e1157e052d3f362813ba11	ЕР	А	Амирилаев Адам Баширович	/?convocation=AAAAAAA6&deputy=99110908	43		8	79
+50e1157f052d3f362813ba12	ЕР	Б	Боженов Сергей Анатольевич	/?convocation=AAAAAAA6&deputy=99112005	27		8	55
+50e11581052d3f362813ba13	КПРФ	С	Стародубцев Василий Александрович	/?convocation=AAAAAAA6&deputy=99105843	21			8
+50e11582052d3f362813ba14	ЕР	З	Зубарев Виктор Владиславович	/?convocation=AAAAAAA6&deputy=99110967	93		2	170
+50e11583052d3f362813ba15	ЛДПР	К	Катасонов Сергей Михайлович	/?convocation=AAAAAAA6&deputy=99112236	11			21
+50e111f6052d3f3584b2fa18	СР	М	Миронов Сергей Михайлович	/?convocation=AAAAAAA6&deputy=99107891	605	1	103	868
+50e111f5052d3f3584b2f946	ЕР	Б	Баталова Рима Акбердиновна	/?convocation=AAAAAAA6&deputy=99111789	614		23	940
+50e111f6052d3f3584b2fa8d	КПРФ	С	Собко Сергей Васильевич	/?convocation=AAAAAAA6&deputy=99109959	667		87	823
+50e111f5052d3f3584b2f959	СР	Б	Бычкова Евдокия Ивановна	/?convocation=AAAAAAA6&deputy=99111984	564	1	111	901
+50e111f6052d3f3584b2fa84	КПРФ	С	Симагин Владимир Александрович	/?convocation=AAAAAAA6&deputy=99111944	652	1	92	832
+50e111f6052d3f3584b2f9fd	ЕР	Л	Липатов Юрий Александрович	/?convocation=AAAAAAA6&deputy=99100756	603		30	944
+50e111f6052d3f3584b2faca	ЛДПР	Ч	Чиркова Ирина Александровна	/?convocation=AAAAAAA6&deputy=99111970	804	3	12	758
+50e111f6052d3f3584b2fab8	ЕР	Х	Хайруллин Айрат Назипович	/?convocation=AAAAAAA6&deputy=99109928	605		29	943
+50e111f6052d3f3584b2fa1a	ЕР	М	Михалев Борис Владимирович	/?convocation=AAAAAAA6&deputy=99111478	620		21	936
+50e111f5052d3f3584b2f996	СР	Д	Драпеко Елена Григорьевна	/?convocation=AAAAAAA6&deputy=99100799	575	1	106	895
+50e111f5052d3f3584b2f92d	СР	А	Агеев Александр Александрович	/?convocation=AAAAAAA6&deputy=99109965	580	6	101	890
+50e111f6052d3f3584b2fa8e	ЛДПР	С	Соболев Виктор Васильевич	/?convocation=AAAAAAA6&deputy=99110647	756	1	14	806
+50e111f6052d3f3584b2f9f6	ЛДПР	Л	Лебедев Игорь Владимирович	/?convocation=AAAAAAA6&deputy=99100750	817	2	15	743
+50e111f5052d3f3584b2f999	ЕР	Е	Езубов Алексей Петрович	/?convocation=AAAAAAA6&deputy=99110954	599	1	35	942
+50e111f6052d3f3584b2fa6f	ЕР	С	Савельев Дмитрий Владимирович	/?convocation=AAAAAAA6&deputy=99100690	614	1	18	944
+50e111f6052d3f3584b2f9e5	ЕР	К	Кретов Александр Владимирович	/?convocation=AAAAAAA6&deputy=99111866	593		41	943
+50e111f5052d3f3584b2f94f	ЕР	Б	Борзова Ольга Георгиевна	/?convocation=AAAAAAA6&deputy=99110064	613		22	942
+50e111f6052d3f3584b2f9ab	ЛДПР	З	Золочевский Виталий Сергеевич	/?convocation=AAAAAAA6&deputy=99111176	777	1	13	786
+50e111f6052d3f3584b2fad8	ЕР	Ш	Шойгу Лариса Кужугетовна	/?convocation=AAAAAAA6&deputy=99111084	587		46	944
+50e111f5052d3f3584b2f96f	ЕР	Г	Гаджиев Магомед Тажудинович	/?convocation=AAAAAAA6&deputy=99110082	598		34	945
+50e111f6052d3f3584b2f9b5	КПРФ	И	Иконников Василий Николаевич	/?convocation=AAAAAAA6&deputy=99111842	604		95	878
+50e111f5052d3f3584b2f92c	КПРФ	А	Агаев Ваха Абуевич	/?convocation=AAAAAAA6&deputy=99111987	696	2	88	791
+50e111f6052d3f3584b2fa4e	ЕР	П	Поддубный Сергей Анатольевич	/?convocation=AAAAAAA6&deputy=99112008	600		36	941
+50e111f6052d3f3584b2f9e9	СР	К	Крутов Андрей Дмитриевич	/?convocation=AAAAAAA6&deputy=99111869	530	1	109	937
+50e111f6052d3f3584b2fa7a	ЛДПР	С	Свиридов Валентин Валентинович	/?convocation=AAAAAAA6&deputy=99100609	791		14	772
+50e111f5052d3f3584b2f93c	ЛДПР	А	Афанасьева Елена Владимировна	/?convocation=AAAAAAA6&deputy=99110040	794	1	13	769
+50e111f6052d3f3584b2fa4a	ЕР	П	Пимашков Петр Иванович	/?convocation=AAAAAAA6&deputy=99111922	593		41	943
+50e111f5052d3f3584b2f982	КПРФ	Г	Гостев Руслан Георгиевич	/?convocation=AAAAAAA6&deputy=99100108	559	1	99	918
+50e111f5052d3f3584b2f99f	ЕР	Ж	Железняк Сергей Владимирович	/?convocation=AAAAAAA6&deputy=99110957	597	1	38	941
+50e111f6052d3f3584b2f9d6	ЕР	К	Колесник Андрей Иванович	/?convocation=AAAAAAA6&deputy=99111862	611		31	935
+50e111f6052d3f3584b2fa74	КПРФ	С	Сапожников Николай Иванович	/?convocation=AAAAAAA6&deputy=99105417	568	1	99	909
+50e111f6052d3f3584b2f9d2	ЕР	К	Кобзон Иосиф Давыдович	/?convocation=AAAAAAA6&deputy=99102913	614		30	933
+50e111f6052d3f3584b2fa61	КПРФ	Р	Решульский Сергей Николаевич	/?convocation=AAAAAAA6&deputy=99100336	535		101	941
+50e111f6052d3f3584b2fa20	ЕР	М	Мукабенова Марина Алексеевна	/?convocation=AAAAAAA6&deputy=99111010	597		34	946
+50e111f6052d3f3584b2fad0	ЕР	Ш	Шемякин Владимир Леонидович	/?convocation=AAAAAAA6&deputy=99111996	634	1	30	912
+50e111f5052d3f3584b2f94a	КПРФ	Б	Бессонов Владимир Иванович	/?convocation=AAAAAAA6&deputy=99111794	586	1	99	891
+50e111f5052d3f3584b2f92e	ЕР	А	Агузаров Тамерлан Кимович	/?convocation=AAAAAAA6&deputy=99111997	524	1	109	943
+50e111f6052d3f3584b2f9df	ЕР	К	Костунов Илья Евгеньевич	/?convocation=AAAAAAA6&deputy=99111864	587		43	947
+50e111f6052d3f3584b2fa93	ЕР	С	Старшинов Михаил Евгеньевич	/?convocation=AAAAAAA6&deputy=99111057	602		35	940
+50e111f6052d3f3584b2f9a6	ЕР	З	Завальный Павел Николаевич	/?convocation=AAAAAAA6&deputy=99112028	597		39	941
+50e111f6052d3f3584b2fadc	КПРФ	Ш	Шурчанов Валентин Сергеевич	/?convocation=AAAAAAA6&deputy=99107007	536		98	943
+50e111f6052d3f3584b2fa5a	КПРФ	Р	Разворотнев Николай Васильевич	/?convocation=AAAAAAA6&deputy=99111034	486	3	104	984
+50e111f6052d3f3584b2fa32	КПРФ	Н	Новиков Дмитрий Георгиевич	/?convocation=AAAAAAA6&deputy=99111018	717	1	92	767
+50e111f6052d3f3584b2fa2f	ЕР	Н	Никонов Вячеслав Алексеевич	/?convocation=AAAAAAA6&deputy=99100295	620		18	939
+50e111f5052d3f3584b2f971	ЕР	Г	Галимарданов Марсел Магфурович	/?convocation=AAAAAAA6&deputy=99111811	624		21	932
+50e111f6052d3f3584b2fa01	ЕР	Л	Ломакин Анатолий Геннадьевич	/?convocation=AAAAAAA6&deputy=99112189	238		10	446
+50e111f6052d3f3584b2f9be	СР	К	Казаков Алексей Валерьевич	/?convocation=AAAAAAA6&deputy=99111848	746	15	95	721
+50e111f6052d3f3584b2f9ad	ЕР	З	Зубицкий Борис Давыдович	/?convocation=AAAAAAA6&deputy=99100877	597		36	944
+50e111f5052d3f3584b2f94e	ЕР	Б	Богуславский Ирек Борисович	/?convocation=AAAAAAA6&deputy=99110921	609		24	944
+50e111f5052d3f3584b2f987	СР	Г	Гудков Дмитрий Геннадьевич	/?convocation=AAAAAAA6&deputy=99111199	620	2	115	840
+50e111f5052d3f3584b2f9a2	ЕР	Ж	Жуков Александр Дмитриевич	/?convocation=AAAAAAA6&deputy=99100145	611		22	944
+50e111f6052d3f3584b2fa0b	ЕР	М	Максимова Светлана Викторовна	/?convocation=AAAAAAA6&deputy=99111888	601	1	31	944
+50e111f6052d3f3584b2fa66	КПРФ	Р	Романов Петр Васильевич	/?convocation=AAAAAAA6&deputy=99105193	591	2	94	890
+50e111f5052d3f3584b2f99a	СР	Е	Емельянов Михаил Васильевич	/?convocation=AAAAAAA6&deputy=99102119	521		114	942
+50e111f6052d3f3584b2fa11	ЛДПР	М	Маркин Андрей Леонидович	/?convocation=AAAAAAA6&deputy=99111894	798		14	765
+50e111f6052d3f3584b2fa7e	ЕР	С	Селимханов Магомед Саламович	/?convocation=AAAAAAA6&deputy=99112000	611	1	30	935
+50e111f6052d3f3584b2f9b8	ЕР	И	Ильясов Радик Сабитович	/?convocation=AAAAAAA6&deputy=99111845	625	1	22	929
+50e111f6052d3f3584b2fae2	КПРФ	Ю	Ющенко Александр Андреевич	/?convocation=AAAAAAA6&deputy=99111981	645		87	845
+50e111f5052d3f3584b2f968	ЕР	В	Волков Юрий Николаевич	/?convocation=AAAAAAA6&deputy=99107856	601		31	945
+50e111f5052d3f3584b2f96b	ЕР	В	Выборный Анатолий Борисович	/?convocation=AAAAAAA6&deputy=99111809	605		27	945
+50e111f5052d3f3584b2f967	ЕР	В	Волков Данил Владимирович	/?convocation=AAAAAAA6&deputy=99112026	593	2	38	944
+50e111f6052d3f3584b2fa0c	КПРФ	М	Мамаев Сергей Павлинович	/?convocation=AAAAAAA6&deputy=99111889	658	2	93	824
+50e111f6052d3f3584b2fac8	КПРФ	Ч	Чикин Валентин Васильевич	/?convocation=AAAAAAA6&deputy=99100415	531	1	99	946
+50e111f6052d3f3584b2facd	СР	Ш	Швецов Василий Георгиевич	/?convocation=AAAAAAA6&deputy=99111972	512	3	113	949
+50e111f5052d3f3584b2f9a3	ЕР	Ж	Журавлев Алексей Александрович	/?convocation=AAAAAAA6&deputy=99111836	590	1	40	946
+50e111f5052d3f3584b2f966	ЕР	В	Водолацкий Виктор Петрович	/?convocation=AAAAAAA6&deputy=99110929	177		1	258
+50e111f6052d3f3584b2f9f4	СР	Л	Лакутин Николай Афанасьевич	/?convocation=AAAAAAA6&deputy=99111879	840	3	55	679
+50e111f6052d3f3584b2fa47	ЕР	П	Пехтин Владимир Алексеевич	/?convocation=AAAAAAA6&deputy=99107656	588		46	943
+50e111f6052d3f3584b2fa75	ЕР	С	Саралиев Шамсаил Юнусович	/?convocation=AAAAAAA6&deputy=99112001	599		36	942
+50e111f5052d3f3584b2f94d	ЕР	Б	Богомаз Александр Васильевич	/?convocation=AAAAAAA6&deputy=99112231	147		2	287
+50e111f5052d3f3584b2f950	КПРФ	Б	Бортко Владимир Владимирович	/?convocation=AAAAAAA6&deputy=99111798	584	3	100	890
+50e111f6052d3f3584b2f9e6	ЕР	К	Кривоносов Сергей Владимирович	/?convocation=AAAAAAA6&deputy=99111867	597		39	941
+50e111f6052d3f3584b2fa99	ЕР	Т	Тарасенко Михаил Васильевич	/?convocation=AAAAAAA6&deputy=99111061	621	3	18	935
+50e111f6052d3f3584b2fa98	КПРФ	Т	Таранин Виктор Иванович	/?convocation=AAAAAAA6&deputy=99111060	666	2	90	819
+50e111f6052d3f3584b2fa12	ЛДПР	М	Маркин Эдуард Витальевич	/?convocation=AAAAAAA6&deputy=99111002	772		14	791
+50e111f5052d3f3584b2f953	СР	Б	Брячак Михаил Васильевич	/?convocation=AAAAAAA6&deputy=99111800	526	1	107	943
+50e111f6052d3f3584b2f9bd	ЕР	К	Кабанова Валентина Викторовна	/?convocation=AAAAAAA6&deputy=99111220	604	2	35	936
+50e111f6052d3f3584b2fadf	ЕР	Ю	Южилин Виталий Александрович	/?convocation=AAAAAAA6&deputy=99100848	601		32	944
+50e111f5052d3f3584b2f961	ЕР	В	Васильев Владимир Абдуалиевич	/?convocation=AAAAAAA6&deputy=99109940	597	2	37	941
+50e111f6052d3f3584b2fa4d	ЕР	П	Плигин Владимир Николаевич	/?convocation=AAAAAAA6&deputy=99110072	601		37	939
+50e111f6052d3f3584b2fa1b	СР	М	Михеев Олег Леонидович	/?convocation=AAAAAAA6&deputy=99111005	675		95	807
+50e111f6052d3f3584b2fa6e	ЕР	С	Саблин Дмитрий Вадимович	/?convocation=AAAAAAA6&deputy=99109963	604		34	939
+50e111f6052d3f3584b2fa86	КПРФ	С	Синельщиков Юрий Петрович	/?convocation=AAAAAAA6&deputy=99111945	549	2	96	930
+50e111f5052d3f3584b2f92a	КПРФ	А	Авдеев Михаил Юрьевич	/?convocation=AAAAAAA6&deputy=99111776	640	2	91	844
+50e111f5052d3f3584b2f99b	СР	Е	Епифанова Ольга Николаевна	/?convocation=AAAAAAA6&deputy=99111830	654	2	109	812
+50e111f6052d3f3584b2f9e3	ЕР	К	Красов Андрей Леонидович	/?convocation=AAAAAAA6&deputy=99112015	587		47	943
+50e111f6052d3f3584b2fa5b	ЕР	Р	Рахматуллина Зугура Ягануровна	/?convocation=AAAAAAA6&deputy=99111930	595	1	39	942
+50e111f6052d3f3584b2f9eb	ЕР	К	Кузьминых Тамара Гавриловна	/?convocation=AAAAAAA6&deputy=99111872	620	2	33	922
+50e111f6052d3f3584b2fa9b	СР	Т	Тарнавский Александр Георгиевич	/?convocation=AAAAAAA6&deputy=99112227	209	1	36	313
+50e111f6052d3f3584b2fa24	ЕР	М	Муцоев Зелимхан Аликоевич	/?convocation=AAAAAAA6&deputy=99100781	280		12	527
+50e111f5052d3f3584b2f977	ЕР	Г	Герасименко Николай Федорович	/?convocation=AAAAAAA6&deputy=99101528	610		25	942
+50e111f6052d3f3584b2f9c6	ЕР	К	Карелин Александр Александрович	/?convocation=AAAAAAA6&deputy=99100692	596	1	35	945
+50e111f6052d3f3584b2fa9a	ЛДПР	Т	Тарасюк Василий Михайлович	/?convocation=AAAAAAA6&deputy=99110032	763		14	800
+50e111f6052d3f3584b2fad4	ЕР	Ш	Шихсаидов Хизри Исаевич	/?convocation=AAAAAAA6&deputy=99111082	604		33	940
+50e111f5052d3f3584b2f9a4	ЛДПР	Ж	Журавлев Сергей Валерианович	/?convocation=AAAAAAA6&deputy=99111837	748	2	13	814
+50e111f5052d3f3584b2f97a	ЕР	Г	Глубоковская Эльмира Гусейновна	/?convocation=AAAAAAA6&deputy=99110939	597	1	41	938
+50e111f6052d3f3584b2fade	ЕР	Э	Эркенов Ахмат Чокаевич	/?convocation=AAAAAAA6&deputy=99111089	596	2	36	943
+50e111f6052d3f3584b2faa0	ЕР	Т	Терентьев Михаил Борисович	/?convocation=AAAAAAA6&deputy=99111064	595	1	42	939
+50e111f6052d3f3584b2faa8	ЕР	Т	Трапезников Валерий Владимирович	/?convocation=AAAAAAA6&deputy=99111954	600	1	34	942
+50e111f6052d3f3584b2faa1	ЕР	Т	Терешкова Валентина Владимировна	/?convocation=AAAAAAA6&deputy=99112025	612	1	32	932
+50e111f5052d3f3584b2f933	КПРФ	А	Алферов Жорес Иванович	/?convocation=AAAAAAA6&deputy=99100543	573		100	904
+50e111f6052d3f3584b2fadd	ЕР	Ш	Шхагошев Адальби Люлевич	/?convocation=AAAAAAA6&deputy=99111086	604	1	33	939
+50e111f6052d3f3584b2fa22	ЕР	М	Мурга Андрей Юрьевич	/?convocation=AAAAAAA6&deputy=99111905	602	1	39	935
+50e111f6052d3f3584b2f9e7	ЛДПР	К	Кропачев Александр Сергеевич	/?convocation=AAAAAAA6&deputy=99111868	767	1	13	796
+50e111f6052d3f3584b2fa94	ЕР	С	Степанова Зоя Михайловна	/?convocation=AAAAAAA6&deputy=99109962	592	1	41	943
+50e111f6052d3f3584b2fa69	СР	Р	Руденко Андрей Викторович	/?convocation=AAAAAAA6&deputy=99111934	522	3	112	940
+50e111f5052d3f3584b2f997	ЛДПР	Д	Дроздов Илья Юрьевич	/?convocation=AAAAAAA6&deputy=99111828	792	3	12	770
+50e111f6052d3f3584b2f9c9	ЕР	К	Кармазина Раиса Васильевна	/?convocation=AAAAAAA6&deputy=99109942	600		48	929
+50e111f6052d3f3584b2fa9c	КПРФ	Т	Тарнаев Александр Петрович	/?convocation=AAAAAAA6&deputy=99111952	703	1	83	790
+50e111f5052d3f3584b2f937	КПРФ	А	Апарина Алевтина Викторовна	/?convocation=AAAAAAA6&deputy=99100015	534	1	96	946
+50e111f5052d3f3584b2f97f	ЕР	Г	Горовой Николай Иванович	/?convocation=AAAAAAA6&deputy=99111816	603		31	943
+50e111f6052d3f3584b2fa33	ЛДПР	Н	Носов Дмитрий Юрьевич	/?convocation=AAAAAAA6&deputy=99111913	770	21	13	773
+50e111f6052d3f3584b2fae1	ЕР	Ю	Юсупов Марсель Харисович	/?convocation=AAAAAAA6&deputy=99111090	602	1	31	943
+50e111f6052d3f3584b2fa43	СР	П	Петров Сергей Анатольевич	/?convocation=AAAAAAA6&deputy=99111027	546	1	110	920
+50e111f6052d3f3584b2f9d8	КПРФ	К	Коломейцев Виктор Андреевич	/?convocation=AAAAAAA6&deputy=99100841	555		93	929
+50e111f6052d3f3584b2fabc	ЕР	Х	Хинштейн Александр Евсеевич	/?convocation=AAAAAAA6&deputy=99109912	619	1	28	929
+50e111f6052d3f3584b2fa7b	ЛДПР	С	Свищев Дмитрий Александрович	/?convocation=AAAAAAA6&deputy=99111048	770		14	793
+50e111f6052d3f3584b2f9d0	ЕР	К	Климов Виктор Владимирович	/?convocation=AAAAAAA6&deputy=99111856	606		32	939
+50e111f5052d3f3584b2f934	ЛДПР	А	Ананских Игорь Александрович	/?convocation=AAAAAAA6&deputy=99111780	771	1	13	792
+50e111f5052d3f3584b2f975	ЕР	Г	Гасанов Магомедкади Набиевич	/?convocation=AAAAAAA6&deputy=99100857	609	1	30	937
+50e111f6052d3f3584b2fad9	ЕР	Ш	Шрейдер Виктор Филиппович	/?convocation=AAAAAAA6&deputy=99111977	597		38	942
+50e111f5052d3f3584b2f96c	ЕР	В	Вяткин Дмитрий Федорович	/?convocation=AAAAAAA6&deputy=99110933	597		36	944
+50e111f6052d3f3584b2fa15	СР	М	Машкарин Владимир Петрович	/?convocation=AAAAAAA6&deputy=99111897	482	5	95	995
+50e111f5052d3f3584b2f965	ЕР	В	Вахаев Хож Магомед Хумайдович	/?convocation=AAAAAAA6&deputy=99110928	607		28	942
+50e111f6052d3f3584b2fab1	ЕР	Ф	Федоров Евгений Алексеевич	/?convocation=AAAAAAA6&deputy=99100398	597	7	41	932
+50e111f6052d3f3584b2f9d9	КПРФ	К	Коломейцев Николай Васильевич	/?convocation=AAAAAAA6&deputy=99103008	598		97	882
+50e111f5052d3f3584b2f926	ЕР	А	Абдулатипов Рамазан Гаджимурадович	/?convocation=AAAAAAA6&deputy=99100491	595	2	45	935
+50e111f5052d3f3584b2f98b	ЕР	Д	Делимханов Адам Султанович	/?convocation=AAAAAAA6&deputy=99110948	603	1	29	944
+50e111f6052d3f3584b2faa6	ЕР	Т	Ткачев Алексей Николаевич	/?convocation=AAAAAAA6&deputy=99109943	599		39	939
+50e111f5052d3f3584b2f954	ЕР	Б	Булавинов Вадим Евгеньевич	/?convocation=AAAAAAA6&deputy=99100052	607		34	936
+50e111f6052d3f3584b2f9e8	ЕР	К	Крупенников Владимир Александрович	/?convocation=AAAAAAA6&deputy=99111733	616		30	931
+50e111f5052d3f3584b2f943	ЕР	Б	Бариев Марат Мансурович	/?convocation=AAAAAAA6&deputy=99111787	613		22	942
+50e111f6052d3f3584b2faab	СР	Т	Тумусов Федот Семёнович	/?convocation=AAAAAAA6&deputy=99111067	570	1	109	897
+50e111f6052d3f3584b2f9f1	КПРФ	К	Кумин Вадим Валентинович	/?convocation=AAAAAAA6&deputy=99111875	654	2	91	830
+50e111f6052d3f3584b2fa8a	ЕР	С	Слипенчук Михаил Викторович	/?convocation=AAAAAAA6&deputy=99111990	608	3	30	936
+50e111f6052d3f3584b2fa82	ЕР	С	Сибагатуллин Фатих Саубанович	/?convocation=AAAAAAA6&deputy=99111054	601	1	30	945
+50e111f6052d3f3584b2fa3c	ЕР	О	Осипов Вячеслав Константинович	/?convocation=AAAAAAA6&deputy=99111024	672		23	882
+50e111f6052d3f3584b2f9ae	СР	З	Зубов Валерий Михайлович	/?convocation=AAAAAAA6&deputy=99107556	550	2	111	914
+50e111f6052d3f3584b2fab0	ЕР	Ф	Фахритдинов Иршат Юнирович	/?convocation=AAAAAAA6&deputy=99111070	599		33	945
+50e111f6052d3f3584b2fa51	ЕР	П	Поневежский Владимир Александрович	/?convocation=AAAAAAA6&deputy=99111995	598	1	38	940
+50e111f6052d3f3584b2fabb	СР	Х	Харлов Вадим Борисович	/?convocation=AAAAAAA6&deputy=99111963	806	6	68	697
+50e111f6052d3f3584b2fa1c	ЕР	М	Моисеев Михаил Алексеевич	/?convocation=AAAAAAA6&deputy=99111902	593	3	44	937
+50e111f6052d3f3584b2fa29	ЕР	Н	Неверов Сергей Иванович	/?convocation=AAAAAAA6&deputy=99100713	601		35	941
+50e111f5052d3f3584b2f962	КПРФ	В	Васильев Николай Иванович	/?convocation=AAAAAAA6&deputy=99111807	674	1	87	815
+50e111f6052d3f3584b2fa9d	ЛДПР	Т	Таскаев Владимир Павлович	/?convocation=AAAAAAA6&deputy=99111062	802	1	14	760
+50e111f6052d3f3584b2fa64	ЕР	Р	Романов Антон Васильевич	/?convocation=AAAAAAA6&deputy=99111932	596	1	38	942
+50e111f6052d3f3584b2fa6d	КПРФ	Р	Рябов Николай Федорович	/?convocation=AAAAAAA6&deputy=99111040	487	3	108	979
+50e111f6052d3f3584b2f9f2	ЕР	К	Курбанов Ризван Даниялович	/?convocation=AAAAAAA6&deputy=99111877	610	2	31	934
+50e111f6052d3f3584b2fad1	ЕР	Ш	Шестаков Василий Борисович	/?convocation=AAAAAAA6&deputy=99110015	601		35	941
+50e111f6052d3f3584b2f9ee	ЕР	К	Кулик Геннадий Васильевич	/?convocation=AAAAAAA6&deputy=99100225	622	4	24	927
+50e111f6052d3f3584b2f9c2	ЛДПР	К	Калашников Сергей Вячеславович	/?convocation=AAAAAAA6&deputy=99100185	761		14	802
+50e111f6052d3f3584b2facc	ЕР	Ш	Шаккум Мартин Люцианович	/?convocation=AAAAAAA6&deputy=99100654	612		21	944
+50e111f6052d3f3584b2fa7d	СР	С	Селиванов Юрий Алексеевич	/?convocation=AAAAAAA6&deputy=99111940	724	8	90	755
+50e111f6052d3f3584b2fa27	ЕР	Н	Нарышкин Сергей Евгеньевич	/?convocation=AAAAAAA6&deputy=99111908	602	1	37	937
+50e1121d052d3f3584b2fae8	ЕР	К	Кнышов Алексей Владимирович	/?convocation=AAAAAAA6&deputy=99111857	431	1	40	637
+50e111f6052d3f3584b2fa14	ЕР	М	Махмутов Анвар Анасович	/?convocation=AAAAAAA6&deputy=99111896	614	1	24	938
+50e111f6052d3f3584b2fa8f	КПРФ	С	Сокол Святослав Михайлович	/?convocation=AAAAAAA6&deputy=99105743	581	1	106	889
+50e111f6052d3f3584b2f9c7	ЕР	К	Карелова Галина Николаевна	/?convocation=AAAAAAA6&deputy=99102729	603		30	944
+50e111f5052d3f3584b2f95c	ЕР	В	Валенчук Олег Дорианович	/?convocation=AAAAAAA6&deputy=99110927	601	1	30	945
+50e111f6052d3f3584b2fa3f	СР	П	Парахин Владимир Вячеславович	/?convocation=AAAAAAA6&deputy=99111986	576	2	87	912
+50e111f5052d3f3584b2f94b	КПРФ	Б	Бифов Анатолий Жамалович	/?convocation=AAAAAAA6&deputy=99111795	714		78	785
+50e111f6052d3f3584b2fab9	ЕР	Х	Хамчиев Белан Багаудинович	/?convocation=AAAAAAA6&deputy=99111073	607		34	936
+50e111f6052d3f3584b2fa13	КПРФ	М	Мархаев Вячеслав Михайлович	/?convocation=AAAAAAA6&deputy=99111895	667	1	105	804
+50e111f6052d3f3584b2fa60	ЕР	Р	Ресин Владимир Иосифович	/?convocation=AAAAAAA6&deputy=99111931	584	1	48	944
+50e11212052d3f3584b2fae6	ЕР	В	Воробьёв Андрей Юрьевич	/?convocation=AAAAAAA6&deputy=99110068	478		30	655
+50e111f5052d3f3584b2f95f	ЕР	В	Василенко Александр Борисович	/?convocation=AAAAAAA6&deputy=99112012	604		33	940
+50e111f5052d3f3584b2f98c	ЕР	Д	Демченко Иван Иванович	/?convocation=AAAAAAA6&deputy=99110949	571	1	62	943
+50e111f6052d3f3584b2fac2	СР	Ч	Чепа Алексей Васильевич	/?convocation=AAAAAAA6&deputy=99111967	570		103	904
+50e111f6052d3f3584b2f9ba	ЕР	И	Исаев Юрий Олегович	/?convocation=AAAAAAA6&deputy=99110973	602	1	31	943
+50e1122c052d3f3584b2fae9	ЕР	Б	Бочаров Андрей Иванович	/?convocation=AAAAAAA6&deputy=99110923	414		34	581
+50e111f6052d3f3584b2f9d7	ЕР	К	Колесников Олег Алексеевич	/?convocation=AAAAAAA6&deputy=99110985	610	2	27	938
+50e111f5052d3f3584b2f978	ЕР	Г	Герасимова Надежда Васильевна	/?convocation=AAAAAAA6&deputy=99110937	619		22	936
+50e111f6052d3f3584b2fabe	ЕР	Х	Хор Глеб Яковлевич	/?convocation=AAAAAAA6&deputy=99110089	595		42	940
+50e111f6052d3f3584b2fa68	ЛДПР	Р	Рохмистров Максим Станиславович	/?convocation=AAAAAAA6&deputy=99109755	779		12	786
+50e111f6052d3f3584b2fa06	ЕР	М	Макаров Андрей Михайлович	/?convocation=AAAAAAA6&deputy=99100248	607	2	36	932
+50e111f6052d3f3584b2f9b2	ЛДПР	И	Иванов Сергей Владимирович	/?convocation=AAAAAAA6&deputy=99100522	824	1	16	736
+50e111f5052d3f3584b2f998	КПРФ	Е	Езерский Николай Николаевич	/?convocation=AAAAAAA6&deputy=99110020	596		96	885
+50e111f6052d3f3584b2fa56	КПРФ	П	Потомский Вадим Владимирович	/?convocation=AAAAAAA6&deputy=99111928	684	1	86	806
+50e111f6052d3f3584b2fa87	ЛДПР	С	Сироткин Сергей Никанорович	/?convocation=AAAAAAA6&deputy=99110038	795		12	770
+50e111f6052d3f3584b2f9aa	ЛДПР	З	Зелинский Ян Викторович	/?convocation=AAAAAAA6&deputy=99111838	785	1	13	778
+50e111f5052d3f3584b2f97c	ЕР	Г	Гольдштейн Ростислав Эрнстович	/?convocation=AAAAAAA6&deputy=99110942	594		38	945
+50e111f6052d3f3584b2f9cc	КПРФ	К	Кашин Борис Сергеевич	/?convocation=AAAAAAA6&deputy=99110981	640	2	98	837
+50e111f6052d3f3584b2fa5e	ЕР	Р	Резник Владислав Матусович	/?convocation=AAAAAAA6&deputy=99100886	593	1	42	941
+50e111f5052d3f3584b2f979	ЕР	Г	Гильмутдинов Ильдар Ирекович	/?convocation=AAAAAAA6&deputy=99110085	596		36	945
+50e111f6052d3f3584b2f9a9	ЕР	З	Звагельский Виктор Фридрихович	/?convocation=AAAAAAA6&deputy=99110963	608		36	933
+50e111f6052d3f3584b2fab4	ЕР	Ф	Фокин Александр Иванович	/?convocation=AAAAAAA6&deputy=99110097	607	1	35	934
+50e111f6052d3f3584b2fa57	ЕР	П	Поцяпун Владимир Тимофеевич	/?convocation=AAAAAAA6&deputy=99110248	601	1	38	937
+50e111f6052d3f3584b2fac5	КПРФ	Ч	Черкесов Виктор Васильевич	/?convocation=AAAAAAA6&deputy=99111969	626	1	87	863
+50e111f5052d3f3584b2f941	ЛДПР	Б	Балберов Александр Александрович	/?convocation=AAAAAAA6&deputy=99111786	767	1	14	795
+50e111f6052d3f3584b2f9c5	ЛДПР	К	Каргинов Сергей Генрихович	/?convocation=AAAAAAA6&deputy=99111852	767	1	14	795
+50e111f6052d3f3584b2fa58	ЕР	П	Прокопьев Александр Сергеевич	/?convocation=AAAAAAA6&deputy=99111929	608	2	30	937
+50e111f5052d3f3584b2f972	ЕР	Г	Гальченко Валерий Владимирович	/?convocation=AAAAAAA6&deputy=99100743	610		21	946
+50e111f6052d3f3584b2fa23	ЕР	М	Мурзабаева Салия Шарифьяновна	/?convocation=AAAAAAA6&deputy=99111011	607		25	945
+50e111f6052d3f3584b2fa1d	СР	М	Москалькова Татьяна Николаевна	/?convocation=AAAAAAA6&deputy=99111008	530	3	111	933
+50e111f6052d3f3584b2faa2	КПРФ	Т	Тетекин Вячеслав Николаевич	/?convocation=AAAAAAA6&deputy=99109274	771		85	721
+50e111f6052d3f3584b2fa76	ЕР	С	Сафаралиев Гаджимет Керимович	/?convocation=AAAAAAA6&deputy=99100888	611		24	942
+50e111f5052d3f3584b2f931	ЕР	А	Алексеева Татьяна Олеговна	/?convocation=AAAAAAA6&deputy=99111778	604		33	940
+50e111f5052d3f3584b2f963	ЕР	В	Васильев Юрий Викторович	/?convocation=AAAAAAA6&deputy=99110006	607	2	25	943
+50e111f6052d3f3584b2facb	ЕР	Ш	Шайденко Надежда Анатольевна	/?convocation=AAAAAAA6&deputy=99112022	610	1	31	935
+50e111f6052d3f3584b2fa5d	ЕР	Р	Резник Борис Львович	/?convocation=AAAAAAA6&deputy=99100686	613	2	28	934
+50e111f6052d3f3584b2f9ff	КПРФ	Л	Лихачев Василий Николаевич	/?convocation=AAAAAAA6&deputy=99107581	542	1	94	940
+50e111f6052d3f3584b2f9a7	ЕР	З	Заварзин Виктор Михайлович	/?convocation=AAAAAAA6&deputy=99109953	606		26	945
+50e111f5052d3f3584b2f945	ЕР	Б	Баталина Ольга Юрьевна	/?convocation=AAAAAAA6&deputy=99111788	610		21	946
+50e111f6052d3f3584b2fa8b	ЛДПР	С	Слуцкий Леонид Эдуардович	/?convocation=AAAAAAA6&deputy=99100776	790		12	775
+50e111f5052d3f3584b2f93f	ЕР	Б	Бабаков Александр Михайлович	/?convocation=AAAAAAA6&deputy=99110045	597	1	36	943
+50e111f5052d3f3584b2f95e	СР	В	Ванчугов Роман Анатольевич	/?convocation=AAAAAAA6&deputy=99111805	533	3	108	933
+50e111f6052d3f3584b2fa19	СР	М	Митрофанов Алексей Валентинович	/?convocation=AAAAAAA6&deputy=99100270	1041		43	493
+50e111f5052d3f3584b2f92f	СР	А	Аксаков Анатолий Геннадьевич	/?convocation=AAAAAAA6&deputy=99100784	540	1	101	935
+50e111f5052d3f3584b2f94c	ЕР	Б	Бобраков Алексей Евгеньевич	/?convocation=AAAAAAA6&deputy=99112024	591		38	948
+50e111f5052d3f3584b2f992	КПРФ	Д	Доровин Евгений Владимирович	/?convocation=AAAAAAA6&deputy=99100513	773		83	721
+50e111f6052d3f3584b2f9db	КПРФ	К	Комоцкий Борис Олегович	/?convocation=AAAAAAA6&deputy=99111338	547	3	96	931
+50e111f6052d3f3584b2fad7	ЕР	Ш	Шлегель Роберт Александрович	/?convocation=AAAAAAA6&deputy=99111083	613	2	33	929
+50e111f6052d3f3584b2fa09	ЕР	М	Максимов Василий Юрьевич	/?convocation=AAAAAAA6&deputy=99112039	547		30	854
+50e111f6052d3f3584b2fa37	СР	О	Оганян Оганес Арменакович	/?convocation=AAAAAAA6&deputy=99107839	588	1	108	880
+50e111f6052d3f3584b2fa89	ЕР	С	Скоч Андрей Владимирович	/?convocation=AAAAAAA6&deputy=99100696	605		28	944
+50e111f6052d3f3584b2f9f7	КПРФ	Л	Лебедев Олег Александрович	/?convocation=AAAAAAA6&deputy=99112037	595	2	95	812
+50e111f5052d3f3584b2f95b	ЕР	В	Валеев Эрнест Абдулович	/?convocation=AAAAAAA6&deputy=99112023	599		35	943
+50e111f6052d3f3584b2f9b9	ЕР	И	Исаев Андрей Константинович	/?convocation=AAAAAAA6&deputy=99100749	600	2	32	943
+50e111f6052d3f3584b2f9ca	ЕР	К	Карпов Анатолий Евгеньевич	/?convocation=AAAAAAA6&deputy=99111854	599	2	34	942
+50e111f6052d3f3584b2f9d1	ЕР	К	Клинцевич Франц Адамович	/?convocation=AAAAAAA6&deputy=99100804	609	1	36	931
+50e111f6052d3f3584b2fa72	ЕР	С	Савченко Олег Владимирович	/?convocation=AAAAAAA6&deputy=99110084	605	1	32	939
+50e111f6052d3f3584b2faa5	ЕР	Т	Тихонов Руслан Кронидович	/?convocation=AAAAAAA6&deputy=99112002	602		31	944
+50e111f6052d3f3584b2fa90	ЕР	С	Соколова Ирина Валерьевна	/?convocation=AAAAAAA6&deputy=99111396	587	1	44	945
+50e111f6052d3f3584b2f9d4	ЕР	К	Когогина Альфия Гумаровна	/?convocation=AAAAAAA6&deputy=99111859	606		30	941
+50e111f6052d3f3584b2fa0d	ЕР	М	Мануйлова Ирина Викторовна	/?convocation=AAAAAAA6&deputy=99111891	592	1	44	940
+50e111f6052d3f3584b2fa30	СР	Н	Нилов Олег Анатольевич	/?convocation=AAAAAAA6&deputy=99111912	768	1	95	713
+50e111f5052d3f3584b2f930	ЕР	А	Акулов Тимур Юрьевич	/?convocation=AAAAAAA6&deputy=99112174	284		20	515
+50e111f6052d3f3584b2fa4c	КПРФ	П	Плетнева Тамара Васильевна	/?convocation=AAAAAAA6&deputy=99100315	640	2	98	837
+50e111f6052d3f3584b2faad	ЕР	У	Умаханов Умахан Магомедгаджиевич	/?convocation=AAAAAAA6&deputy=99111992	597	1	42	937
+50e111f5052d3f3584b2f97d	ЕР	Г	Гончар Николай Николаевич	/?convocation=AAAAAAA6&deputy=99102051	598		36	943
+50e111f6052d3f3584b2fa46	СР	П	Петухова Наталья Рэмовна	/?convocation=AAAAAAA6&deputy=99111921	557	1	117	902
+50e111f6052d3f3584b2fa35	КПРФ	О	Обухов Сергей Павлович	/?convocation=AAAAAAA6&deputy=99110214	487		96	994
+50e111f6052d3f3584b2fad3	КПРФ	Ш	Ширшов Константин Владимирович	/?convocation=AAAAAAA6&deputy=99111081	518	4	96	959
+50e111f6052d3f3584b2fa2d	ЕР	Н	Николаев Михаил Ефимович	/?convocation=AAAAAAA6&deputy=99107599	591		47	939
+50e111f6052d3f3584b2fa80	ЕР	С	Сенаторова Елена Николаевна	/?convocation=AAAAAAA6&deputy=99111941	598		35	944
+50e111f5052d3f3584b2f935	КПРФ	А	Андреев Андрей Анатольевич	/?convocation=AAAAAAA6&deputy=99107986	587	1	91	898
+50e111f6052d3f3584b2fa48	КПРФ	П	Пешков Виктор Петрович	/?convocation=AAAAAAA6&deputy=99104769	492		100	985
+50e111f6052d3f3584b2fa7f	ЛДПР	С	Семёнов Владимир Владиславович	/?convocation=AAAAAAA6&deputy=99111050	754	1	11	811
+50e111f6052d3f3584b2f9fc	ЕР	Л	Ледков Григорий Петрович	/?convocation=AAAAAAA6&deputy=99112035	595	3	40	939
+50e111f6052d3f3584b2fa08	ЕР	М	Максакова-Игенбергс Мария Петровна	/?convocation=AAAAAAA6&deputy=99111887	604	4	30	939
+50e111f5052d3f3584b2f991	ЕР	Д	Долгих Владимир Иванович	/?convocation=AAAAAAA6&deputy=99111824	601	2	38	936
+50e111f5052d3f3584b2f93e	ЕР	А	Афонский Владимир Игорьевич	/?convocation=AAAAAAA6&deputy=99112021	597		33	947
+50e111f6052d3f3584b2f9c8	ЕР	К	Карлов Георгий Александрович	/?convocation=AAAAAAA6&deputy=99112018	607	1	31	938
+50e111f5052d3f3584b2f925	КПРФ	А	Абалаков Александр Николаевич	/?convocation=AAAAAAA6&deputy=99111772	559	1	97	920
+50e111f6052d3f3584b2fa04	ЕР	Л	Лысаков Вячеслав Иванович	/?convocation=AAAAAAA6&deputy=99111883	623	2	14	938
+50e111f6052d3f3584b2f9b3	КПРФ	И	Иванюженков Борис Викторович	/?convocation=AAAAAAA6&deputy=99111988	663		90	824
+50e111f6052d3f3584b2fa95	ЛДПР	С	Субботин Константин Сергеевич	/?convocation=AAAAAAA6&deputy=99111949	772		13	792
+50e111f6052d3f3584b2fab6	ЕР	Х	Хадарцев Махарбек Хазбиевич	/?convocation=AAAAAAA6&deputy=99111960	604	1	28	944
+50e111f6052d3f3584b2f9d3	ЕР	К	Ковалев Николай Дмитриевич	/?convocation=AAAAAAA6&deputy=99100733	604	1	31	941
+50e111f6052d3f3584b2f9cd	КПРФ	К	Кашин Владимир Иванович	/?convocation=AAAAAAA6&deputy=99110050	590	2	96	889
+50e111f5052d3f3584b2f92b	ЕР	А	Агаев Бекхан Вахаевич	/?convocation=AAAAAAA6&deputy=99111999	592	1	40	944
+50e111f5052d3f3584b2f988	ЕР	Г	Гутенев Владимир Владимирович	/?convocation=AAAAAAA6&deputy=99111820	591	1	39	946
+50e111f5052d3f3584b2f927	ЛДПР	А	Абрамов Иван Николаевич	/?convocation=AAAAAAA6&deputy=99111774	774		13	790
+50e111f6052d3f3584b2f9ec	ЕР	К	Кузьмичева Екатерина Ивановна	/?convocation=AAAAAAA6&deputy=99110993	597		33	947
+50e111f6052d3f3584b2fac9	ЕР	Ч	Чиндяскин Сергей Викторович	/?convocation=AAAAAAA6&deputy=99109636	576		52	949
+50e111f5052d3f3584b2f942	ЕР	Б	Балыхин Григорий Артёмович	/?convocation=AAAAAAA6&deputy=99110914	601		32	944
+50e111f6052d3f3584b2fa4b	ЕР	П	Пинский Виктор Витальевич	/?convocation=AAAAAAA6&deputy=99112031	599	5	31	942
+50e111f6052d3f3584b2f9dd	ЕР	К	Коньков Дмитрий Сергеевич	/?convocation=AAAAAAA6&deputy=99111863	597		37	943
+50e111f6052d3f3584b2fa4f	ЕР	П	Позгалев Вячеслав Евгеньевич	/?convocation=AAAAAAA6&deputy=99107609	606		36	935
+50e111f5052d3f3584b2f93d	КПРФ	А	Афонин Юрий Вячеславович	/?convocation=AAAAAAA6&deputy=99110911	601	2	97	877
+50e111f6052d3f3584b2f9f9	СР	Л	Левин Леонид Леонидович	/?convocation=AAAAAAA6&deputy=99111880	514	5	94	964
+50e111f6052d3f3584b2f9f5	ЕР	Л	Лахова Екатерина Филипповна	/?convocation=AAAAAAA6&deputy=99100229	616		18	943
+50e111f6052d3f3584b2fa10	ЕР	М	Маркелов Михаил Юрьевич	/?convocation=AAAAAAA6&deputy=99110282	586	6	39	946
+50e111f6052d3f3584b2f9f0	КПРФ	К	Куликов Олег Анатольевич	/?convocation=AAAAAAA6&deputy=99110545	621	1	99	856
+50e111f5052d3f3584b2f938	КПРФ	А	Арефьев Николай Васильевич	/?convocation=AAAAAAA6&deputy=99100640	677	2	105	793
+50e111f6052d3f3584b2f9f3	ЛДПР	К	Курдюмов Александр Борисович	/?convocation=AAAAAAA6&deputy=99100550	785		13	779
+50e111f6052d3f3584b2fab7	ЕР	Х	Хайров Ринат Шамильевич	/?convocation=AAAAAAA6&deputy=99111961	585	16	39	937
+50e111f6052d3f3584b2fa0a	ЕР	М	Максимова Надежда Сергеевна	/?convocation=AAAAAAA6&deputy=99109956	575		50	952
+50e111f6052d3f3584b2f9e1	КПРФ	К	Кравец Александр Алексеевич	/?convocation=AAAAAAA6&deputy=99103226	582		99	896
+50e111f6052d3f3584b2f9fb	КПРФ	Л	Левченко Сергей Георгиевич	/?convocation=AAAAAAA6&deputy=99100819	608	1	98	870
+50e111f5052d3f3584b2f9a1	ЛДПР	Ж	Жириновский Владимир Вольфович	/?convocation=AAAAAAA6&deputy=99100142	772		16	789
+50e111f6052d3f3584b2f9c3	ЛДПР	К	Калюжный Руслан Валерьевич	/?convocation=AAAAAAA6&deputy=99111849	776		13	788
+50e111f6052d3f3584b2f9cb	ЕР	К	Качкаев Павел Рюрикович	/?convocation=AAAAAAA6&deputy=99111855	595	1	42	939
+50e111f6052d3f3584b2f9af	КПРФ	З	Зюганов Геннадий Андреевич	/?convocation=AAAAAAA6&deputy=99100171	606		98	873
+50e111f5052d3f3584b2f973	СР	Г	Гартунг Валерий Карлович	/?convocation=AAAAAAA6&deputy=99107687	560		112	905
+50e111f6052d3f3584b2fa21	КПРФ	М	Муравленко Сергей Викторович	/?convocation=AAAAAAA6&deputy=99110059	544	4	101	928
+50e111f5052d3f3584b2f976	ЕР	Г	Геккиев Заур Далхатович	/?convocation=AAAAAAA6&deputy=99111812	612	1	29	935
+50e111f5052d3f3584b2f99d	ЕР	Е	Ефимов Виталий Борисович	/?convocation=AAAAAAA6&deputy=99111831	592	5	37	943
+50e111f5052d3f3584b2f95d	ЕР	В	Валуев Николай Сергеевич	/?convocation=AAAAAAA6&deputy=99111804	598	1	37	941
+50e111f5052d3f3584b2f960	ЕР	В	Васильев Александр Николаевич	/?convocation=AAAAAAA6&deputy=99112032	601	1	38	937
+50e111f5052d3f3584b2f98a	ЛДПР	Д	Дегтярев Михаил Владимирович	/?convocation=AAAAAAA6&deputy=99111822	762	2	14	799
+50e111f6052d3f3584b2fa49	ЕР	П	Пивненко Валентина Николаевна	/?convocation=AAAAAAA6&deputy=99107708	604		32	941
+50e111f6052d3f3584b2fac1	ЕР	Ч	Чайка Валентин Васильевич	/?convocation=AAAAAAA6&deputy=99100700	150		2	284
+50e111f6052d3f3584b2fa07	ЕР	М	Макаров Николай Иванович	/?convocation=AAAAAAA6&deputy=99111886	604	2	34	937
+50e111f6052d3f3584b2fad6	ЕР	Ш	Школкина Надежда Васильевна	/?convocation=AAAAAAA6&deputy=99111695	608	4	27	938
+50e111f6052d3f3584b2fae0	КПРФ	Ю	Юрченко Сергей Иванович	/?convocation=AAAAAAA6&deputy=99111980	546	1	98	932
+50e111f5052d3f3584b2f97b	ЕР	Г	Говорухин Станислав Сергеевич	/?convocation=AAAAAAA6&deputy=99100099	603	2	30	942
+50e111f6052d3f3584b2f9e2	ЕР	К	Кравченко Валерий Николаевич	/?convocation=AAAAAAA6&deputy=99110005	608	1	23	945
+50e111f6052d3f3584b2faaa	СР	Т	Туманов Андрей Владимирович	/?convocation=AAAAAAA6&deputy=99111956	514	3	111	949
+50e111f6052d3f3584b2fa16	КПРФ	М	Мельников Иван Иванович	/?convocation=AAAAAAA6&deputy=99104023	599	2	90	886
+50e111f6052d3f3584b2fa3d	ЕР	П	Панина Елена Владимировна	/?convocation=AAAAAAA6&deputy=99104631	603		32	942
+50e111f6052d3f3584b2fa92	ЛДПР	С	Старовойтов Александр Сергеевич	/?convocation=AAAAAAA6&deputy=99111948	764		14	799
+50e111f6052d3f3584b2fabd	СР	Х	Хованская Галина Петровна	/?convocation=AAAAAAA6&deputy=99109949	528	2	108	939
+50e111f6052d3f3584b2fac4	ЛДПР	Ч	Черкасов Кирилл Игоревич	/?convocation=AAAAAAA6&deputy=99111079	759		11	807
+50e111f5052d3f3584b2f928	ЕР	А	Аброськин Николай Павлович	/?convocation=AAAAAAA6&deputy=99111998	594		41	942
+50e111f5052d3f3584b2f929	ЕР	А	Абубакиров Ришат Фазлутдинович	/?convocation=AAAAAAA6&deputy=99111775	606	2	24	945
+50e111f5052d3f3584b2f958	ЕР	Б	Бурыкина Наталья Викторовна	/?convocation=AAAAAAA6&deputy=99100913	596		42	939
+50e111f5052d3f3584b2f93a	ЕР	А	Аршинова Алёна Игоревна	/?convocation=AAAAAAA6&deputy=99112121	518	1	25	799
+50e111f6052d3f3584b2fa3b	ЕР	О	Омельченко Валерий Викторович	/?convocation=AAAAAAA6&deputy=99112122	508		15	738
+50e111f5052d3f3584b2f980	СР	Г	Горовцов Дмитрий Евгеньевич	/?convocation=AAAAAAA6&deputy=99111817	513	1	107	956
+50e111f6052d3f3584b2fada	КПРФ	Ш	Штогрин Сергей Иванович	/?convocation=AAAAAAA6&deputy=99106978	608		101	868
+50e111f6052d3f3584b2faac	КПРФ	Т	Тычинин Андрей Джафарович	/?convocation=AAAAAAA6&deputy=99111957	649	2	92	834
+50e111f5052d3f3584b2f964	КПРФ	В	Васильцов Сергей Иванович	/?convocation=AAAAAAA6&deputy=99110486	498		97	982
+50e111f6052d3f3584b2fa0e	ЕР	М	Марданшин Рафаэль Мирхатимович	/?convocation=AAAAAAA6&deputy=99111892	595	1	31	950
+50e111f5052d3f3584b2f93b	ЕР	А	Аскендеров Заур Асевович	/?convocation=AAAAAAA6&deputy=99112120	545		14	799
+50e111f6052d3f3584b2f9ac	СР	З	Зотов Игорь Львович	/?convocation=AAAAAAA6&deputy=99111839	950	7	43	577
+50e111f6052d3f3584b2faae	СР	У	Ушаков Дмитрий Владимирович	/?convocation=AAAAAAA6&deputy=99111958	543	6	111	917
+50e111f6052d3f3584b2fa02	СР	Л	Ломакин-Румянцев Александр Вадимович	/?convocation=AAAAAAA6&deputy=99110998	525		112	940
+50e111f6052d3f3584b2fa1f	СР	М	Музыкаев Аднан Абдулаевич	/?convocation=AAAAAAA6&deputy=99111009	1127	1	61	388
+50e111f6052d3f3584b2fa50	КПРФ	П	Поздняков Владимир Георгиевич	/?convocation=AAAAAAA6&deputy=99109895	566	3	101	907
+50e111f5052d3f3584b2f955	ЕР	Б	Булаев Николай Иванович	/?convocation=AAAAAAA6&deputy=99100821	601	2	36	938
+50e111f6052d3f3584b2fa53	КПРФ	П	Пономарёв Алексей Алексеевич	/?convocation=AAAAAAA6&deputy=99100319	625	1	91	860
+50e111f6052d3f3584b2fae5	ЕР	Я	Яровая Ирина Анатольевна	/?convocation=AAAAAAA6&deputy=99111093	609	2	29	937
+50e111f6052d3f3584b2faaf	ЕР	Ф	Фабричный Сергей Юрьевич	/?convocation=AAAAAAA6&deputy=99112013	601		34	942
+50e111f6052d3f3584b2fa36	ЛДПР	О	Овсянников Владимир Анатольевич	/?convocation=AAAAAAA6&deputy=99100577	768	1	11	797
+50e111f6052d3f3584b2fa41	СР	П	Пахолков Олег Владимирович	/?convocation=AAAAAAA6&deputy=99111919	581	2	100	894
+50e111f5052d3f3584b2f983	СР	Г	Грачёв Иван Дмитриевич	/?convocation=AAAAAAA6&deputy=99100109	561	3	107	906
+50e111f6052d3f3584b2fa91	КПРФ	С	Соловьев Вадим Георгиевич	/?convocation=AAAAAAA6&deputy=99109210	539	2	94	942
+50e111f6052d3f3584b2fa45	ЕР	П	Петров Юрий Александрович	/?convocation=AAAAAAA6&deputy=99112034	599	1	38	939
+50e111f6052d3f3584b2fa3e	ЕР	П	Панков Николай Васильевич	/?convocation=AAAAAAA6&deputy=99110102	610		28	939
+50e111f6052d3f3584b2face	ЕР	Ш	Швецова Людмила Ивановна	/?convocation=AAAAAAA6&deputy=99111973	616	1	15	945
+50e111f5052d3f3584b2f985	ЕР	Г	Гридин Владимир Григорьевич	/?convocation=AAAAAAA6&deputy=99110945	593		40	944
+50e111f6052d3f3584b2fad5	ЕР	Ш	Шишкин Александр Геннадьевич	/?convocation=AAAAAAA6&deputy=99111101	507	1	20	659
+50e111f6052d3f3584b2fa59	ЕР	П	Пушков Алексей Константинович	/?convocation=AAAAAAA6&deputy=99112004	600		39	938
+50e111f6052d3f3584b2fab2	КПРФ	Ф	Федоткин Владимир Николаевич	/?convocation=AAAAAAA6&deputy=99107639	553	1	104	919
+50e111f6052d3f3584b2fa25	ЕР	Н	Назарова Марина Юрьевна	/?convocation=AAAAAAA6&deputy=99112019	610		37	930
+50e111f6052d3f3584b2f9c1	КПРФ	К	Калашников Леонид Иванович	/?convocation=AAAAAAA6&deputy=99111543	644	1	91	841
+50e111f6052d3f3584b2fac6	СР	Ч	Четвериков Александр Владимирович	/?convocation=AAAAAAA6&deputy=99100791	681		103	793
+50e111f6052d3f3584b2fa71	КПРФ	С	Савицкая Светлана Евгеньевна	/?convocation=AAAAAAA6&deputy=99105318	560	1	93	923
+50e111f5052d3f3584b2f99e	ЕР	Ж	Жарков Антон Викторович	/?convocation=AAAAAAA6&deputy=99111832	602	1	35	939
+50e111f5052d3f3584b2f951	ЕР	Б	Борцов Николай Иванович	/?convocation=AAAAAAA6&deputy=99109981	598	1	34	944
+50e111f6052d3f3584b2faba	КПРФ	Х	Харитонов Николай Михайлович	/?convocation=AAAAAAA6&deputy=99100407	576	1	89	911
+50e111f6052d3f3584b2fa83	ЕР	С	Сидякин Александр Геннадьевич	/?convocation=AAAAAAA6&deputy=99109163	615	2	34	926
+50e111f6052d3f3584b2f9d5	ЕР	К	Кожевникова Мария Александровна	/?convocation=AAAAAAA6&deputy=99111860	598		36	943
+50e111f6052d3f3584b2f9ef	КПРФ	К	Куликов Александр Дмитриевич	/?convocation=AAAAAAA6&deputy=99103433	586	7	95	889
+50e111f5052d3f3584b2f96a	КПРФ	В	Вороненков Денис Николаевич	/?convocation=AAAAAAA6&deputy=99111808	629		87	861
+50e111f6052d3f3584b2f9b4	ЕР	И	Игошин Игорь Николаевич	/?convocation=AAAAAAA6&deputy=99100862	607	1	30	939
+50e111f6052d3f3584b2fad2	ЛДПР	Ш	Шингаркин Максим Андреевич	/?convocation=AAAAAAA6&deputy=99111975	796		13	768
+50e111f6052d3f3584b2fa17	СР	М	Мизулина Елена Борисовна	/?convocation=AAAAAAA6&deputy=99104055	568	1	111	897
+50e11216052d3f3584b2fae7	ЕР	И	Исаев Михаил Александрович	/?convocation=AAAAAAA6&deputy=99112016	456		24	661
+50e111f6052d3f3584b2f9ce	ЕР	К	Квитка Иван Иванович	/?convocation=AAAAAAA6&deputy=99110982	599	1	38	939
+50e111f6052d3f3584b2f9cf	ЕР	К	Кидяев Виктор Борисович	/?convocation=AAAAAAA6&deputy=99111399	601		33	943
+50e111f5052d3f3584b2f969	ЛДПР	В	Волчек Денис Геннадьевич	/?convocation=AAAAAAA6&deputy=99110931	774		13	790
+50e111f6052d3f3584b2fa85	ЕР	С	Симановский Леонид Яковлевич	/?convocation=AAAAAAA6&deputy=99110096	615		21	941
+50e111f5052d3f3584b2f948	СР	Б	Беляков Антон Владимирович	/?convocation=AAAAAAA6&deputy=99110918	583		101	893
+50e111f6052d3f3584b2f9bf	ЕР	К	Казаков Виктор Алексеевич	/?convocation=AAAAAAA6&deputy=99109906	597	1	35	944
+50e111f6052d3f3584b2fa39	ЕР	О	Огуль Леонид Анатольевич	/?convocation=AAAAAAA6&deputy=99112105	553	1	23	846
+50e111f6052d3f3584b2fa79	ЛДПР	С	Свинцов Андрей Николаевич	/?convocation=AAAAAAA6&deputy=99111939	773		13	791
+50e111f6052d3f3584b2fadb	СР	Ш	Шудегов Виктор Евграфович	/?convocation=AAAAAAA6&deputy=99107868	566	2	113	896
+50e111f6052d3f3584b2fa77	ЕР	С	Сафин Марат Мубинович	/?convocation=AAAAAAA6&deputy=99111937	602	1	39	935
+50e111f6052d3f3584b2fa52	СР	П	Пономарев Илья Владимирович	/?convocation=AAAAAAA6&deputy=99111031	541	2	114	920
+50e111f5052d3f3584b2f97e	КПРФ	Г	Гончаров Виктор Иванович	/?convocation=AAAAAAA6&deputy=99111814	518	4	94	961
+50e111f6052d3f3584b2fa5f	ЕР	Р	Ремезков Александр Александрович	/?convocation=AAAAAAA6&deputy=99112003	598	1	38	940
+50e111f6052d3f3584b2fa8c	КПРФ	С	Смолин Олег Николаевич	/?convocation=AAAAAAA6&deputy=99105719	686	1	101	789
+50e111f6052d3f3584b2fa2a	КПРФ	Н	Некрасов Александр Николаевич	/?convocation=AAAAAAA6&deputy=99111909	631		93	853
+50e111f5052d3f3584b2f995	КПРФ	Д	Дорохин Павел Сергеевич	/?convocation=AAAAAAA6&deputy=99111827	511	1	95	970
+50e111f5052d3f3584b2f974	СР	Г	Гасанов Джамаладин Набиевич	/?convocation=AAAAAAA6&deputy=99110936	1059	7	43	468
+50e111f6052d3f3584b2fa6a	ЕР	Р	Руденский Игорь Николаевич	/?convocation=AAAAAAA6&deputy=99100702	612	4	29	932
+50e111f5052d3f3584b2f96e	КПРФ	Г	Гаврилов Сергей Анатольевич	/?convocation=AAAAAAA6&deputy=99110934	492	2	101	982
+50e111f6052d3f3584b2facf	СР	Ш	Шеин Анатолий Алексеевич	/?convocation=AAAAAAA6&deputy=99111974	543	5	109	920
+50e111f6052d3f3584b2fa81	СР	С	Сердюк Михаил Иванович	/?convocation=AAAAAAA6&deputy=99111942	634	1	106	836
+50e111f6052d3f3584b2f9b0	ЕР	И	Иванов Валерий Викторович	/?convocation=AAAAAAA6&deputy=99112175	234		14	446
+50e111f6052d3f3584b2fac3	СР	Ч	Черешнев Валерий Александрович	/?convocation=AAAAAAA6&deputy=99111078	552	1	114	910
+50e111f6052d3f3584b2fa44	ЕР	П	Петров Сергей Валериевич	/?convocation=AAAAAAA6&deputy=99111028	605		29	943
+50e111f5052d3f3584b2f970	ЕР	Г	Гаджиев Мурад Станиславович	/?convocation=AAAAAAA6&deputy=99111991	609		30	938
+50e111f6052d3f3584b2fa2b	КПРФ	Н	Никитин Владимир Степанович	/?convocation=AAAAAAA6&deputy=99104393	619	1	96	861
+50e111f6052d3f3584b2fac7	ЕР	Ч	Чижов Сергей Викторович	/?convocation=AAAAAAA6&deputy=99109921	598		39	940
+50e111f6052d3f3584b2f9f8	ЕР	Л	Лебедев Олег Владимирович	/?convocation=AAAAAAA6&deputy=99110996	603		32	942
+50e111f6052d3f3584b2fa40	КПРФ	П	Паутов Виктор Николаевич	/?convocation=AAAAAAA6&deputy=99100741	543	1	97	936
+50e111f5052d3f3584b2f947	ЕР	Б	Белоусов Вадим Владимирович	/?convocation=AAAAAAA6&deputy=99111791	605	2	29	941
+50e111f6052d3f3584b2fa26	ЛДПР	Н	Напсо Юрий Аисович	/?convocation=AAAAAAA6&deputy=99111015	813	1	12	751
+50e111f6052d3f3584b2fa38	ЕР	О	Огородова Людмила Михайловна	/?convocation=AAAAAAA6&deputy=99112020	597	1	36	943
+50e111f6052d3f3584b2f9e0	КПРФ	К	Кочиев Роберт Иванович	/?convocation=AAAAAAA6&deputy=99111865	712	1	79	785
+50e111f6052d3f3584b2fabf	ЕР	Х	Хороля Дмитрий Оттович	/?convocation=AAAAAAA6&deputy=99111964	601		41	935
+50e111f5052d3f3584b2f993	СР	Д	Доронин Сергей Александрович	/?convocation=AAAAAAA6&deputy=99111825	537	2	112	926
+50e111f6052d3f3584b2f9b1	КПРФ	И	Иванов Николай Николаевич	/?convocation=AAAAAAA6&deputy=99100666	578	2	98	899
+50e111f6052d3f3584b2fa88	ЕР	С	Скоробогатько Александр Иванович	/?convocation=AAAAAAA6&deputy=99109794	598		35	944
+50e111f6052d3f3584b2fa00	КПРФ	Л	Локоть Анатолий Евгеньевич	/?convocation=AAAAAAA6&deputy=99109976	555	2	99	921
+50e111f6052d3f3584b2fa05	СР	Л	Лысяков Алексей Алексеевич	/?convocation=AAAAAAA6&deputy=99109661	571	4	107	895
+50e111f6052d3f3584b2fa42	ЕР	П	Петров Александр Петрович	/?convocation=AAAAAAA6&deputy=99111920	601		38	938
+50e111f6052d3f3584b2fa96	ЛДПР	С	Сухарев Иван Константинович	/?convocation=AAAAAAA6&deputy=99111950	768	1	14	794
+50e111f6052d3f3584b2fa34	СР	Н	Носовко Геннадий Сергеевич	/?convocation=AAAAAAA6&deputy=99111914	596	2	99	880
+50e111f6052d3f3584b2f9b7	ЕР	И	Ильтяков Александр Владимирович	/?convocation=AAAAAAA6&deputy=99111844	567	2	72	936
+50e111f5052d3f3584b2f940	ЕР	Б	Балашов Балаш Курбанмагомедович	/?convocation=AAAAAAA6&deputy=99111785	607	4	31	935
+50e111f5052d3f3584b2f98e	ЛДПР	Д	Деньгин Вадим Евгеньевич	/?convocation=AAAAAAA6&deputy=99111684	763	1	14	799
+50e111f5052d3f3584b2f986	ЛДПР	Г	Губарева Наталья Викторовна	/?convocation=AAAAAAA6&deputy=99111819	707	2	13	657
+50e111f5052d3f3584b2f989	ЕР	Д	Дегтярев Александр Николаевич	/?convocation=AAAAAAA6&deputy=99111821	591	1	45	940
+50e111f6052d3f3584b2fa73	СР	С	Самиев Ильдар Рафикович	/?convocation=AAAAAAA6&deputy=99111985	672		102	803
+50e111f6052d3f3584b2faa9	ЕР	Т	Третьяк Владислав Александрович	/?convocation=AAAAAAA6&deputy=99109957	613		25	939
+50e111f6052d3f3584b2fa5c	КПРФ	Р	Рашкин Валерий Федорович	/?convocation=AAAAAAA6&deputy=99100601	663		87	827
+50e111f5052d3f3584b2f981	СР	Г	Горячева Светлана Петровна	/?convocation=AAAAAAA6&deputy=99101697	590		114	873
+50e111f5052d3f3584b2f99c	ЕР	Е	Есяков Сергей Яковлевич	/?convocation=AAAAAAA6&deputy=99112014	609		31	937
+50e111f6052d3f3584b2fa2c	КПРФ	Н	Никитчук Иван Игнатьевич	/?convocation=AAAAAAA6&deputy=99104403	658	2	131	786
+50e111f5052d3f3584b2f949	КПРФ	Б	Берулава Михаил Николаевич	/?convocation=AAAAAAA6&deputy=99111793	625		93	859
+50e111f5052d3f3584b2f98f	ЛДПР	Д	Диденко Алексей Николаевич	/?convocation=AAAAAAA6&deputy=99111823	777		14	786
+50e111f6052d3f3584b2fa6b	КПРФ	Р	Рульков Евгений Адамович	/?convocation=AAAAAAA6&deputy=99111935	660		93	824
+50e111f6052d3f3584b2fa54	ЕР	П	Попов Сергей Александрович	/?convocation=AAAAAAA6&deputy=99107842	597		37	943
+50e111f6052d3f3584b2fae4	ЕР	Я	Якушев Валерий Васильевич	/?convocation=AAAAAAA6&deputy=99112033	619		27	931
+50e111f6052d3f3584b2fa9f	СР	Т	Терентьев Александр Васильевич	/?convocation=AAAAAAA6&deputy=99111063	535	2	106	934
+50e111f5052d3f3584b2f952	ЕР	Б	Брыксин Александр Юрьевич	/?convocation=AAAAAAA6&deputy=99112010	597		40	940
+50e11240052d3f3584b2faea	СР	Г	Гудков Геннадий Владимирович	/?convocation=AAAAAAA6&deputy=99107823	361		68	490
+50e111f6052d3f3584b2fa62	КПРФ	Р	Родин Владимир Романович	/?convocation=AAAAAAA6&deputy=99111989	650	2	92	833
+50e111f6052d3f3584b2fa63	ЕР	Р	Роднина Ирина Константиновна	/?convocation=AAAAAAA6&deputy=99111035	561	1	71	944
+50e111f6052d3f3584b2fa2e	ЕР	Н	Николаева Елена Леонидовна	/?convocation=AAAAAAA6&deputy=99111911	595		39	943
+50e111f6052d3f3584b2fae3	ЕР	Я	Язев Валерий Афонасьевич	/?convocation=AAAAAAA6&deputy=99107113	603		37	937
+50e111f6052d3f3584b2fa03	ЛДПР	Л	Луговой Андрей Константинович	/?convocation=AAAAAAA6&deputy=99110999	801		13	763
+50e111f6052d3f3584b2f9e4	ЕР	К	Крашенинников Павел Владимирович	/?convocation=AAAAAAA6&deputy=99100761	598		36	943
+50e111f6052d3f3584b2f9dc	ЕР	К	Кононов Владимир Михайлович	/?convocation=AAAAAAA6&deputy=99112011	600		39	938
+50e111f6052d3f3584b2f9ed	ЛДПР	К	Кулиева Василина Васильевна	/?convocation=AAAAAAA6&deputy=99111873	792		13	772
+50e111f5052d3f3584b2f98d	КПРФ	Д	Денисенко Олег Иванович	/?convocation=AAAAAAA6&deputy=99110950	641	2	89	845
+50e111f5052d3f3584b2f984	СР	Г	Грешневиков Анатолий Николаевич	/?convocation=AAAAAAA6&deputy=99100110	534		114	929
+50e111f6052d3f3584b2fa1e	ЕР	М	Москвичев Евгений Сергеевич	/?convocation=AAAAAAA6&deputy=99111904	624		13	940
+50e111f6052d3f3584b2f9c0	ЕР	К	Казакова Ольга Михайловна	/?convocation=AAAAAAA6&deputy=99112127	484		16	687
+50e111f5052d3f3584b2f957	ЕР	Б	Бурматов Владимир Владимирович	/?convocation=AAAAAAA6&deputy=99111801	603	2	38	934
+50e111f6052d3f3584b2f9c4	ЕР	К	Каминский Александр Викторович	/?convocation=AAAAAAA6&deputy=99111850	596		38	943
+50e111f6052d3f3584b2fa78	ЛДПР	С	Свергунова Маргарита Николаевна	/?convocation=AAAAAAA6&deputy=99111938	790	1	15	771
+50e111f6052d3f3584b2fa0f	ЛДПР	М	Маринин Сергей Владимирович	/?convocation=AAAAAAA6&deputy=99111893	756		12	809
+50e111f5052d3f3584b2f96d	ЕР	Г	Габдрахманов Ильдар Нуруллович	/?convocation=AAAAAAA6&deputy=99108215	527		29	795
+50e111f5052d3f3584b2f936	ЕР	А	Аникеев Григорий Викторович	/?convocation=AAAAAAA6&deputy=99110909	601		32	944
+50e111f5052d3f3584b2f944	ЕР	Б	Баринов Игорь Вячеславович	/?convocation=AAAAAAA6&deputy=99109907	592	1	45	939
+50e111f6052d3f3584b2fa3a	СР	О	Озеров Андрей Александрович	/?convocation=AAAAAAA6&deputy=99111915	593	2	105	877
+50e111f6052d3f3584b2faa3	ЕР	Т	Тимофеева Ольга Викторовна	/?convocation=AAAAAAA6&deputy=99112126	483		14	690
+50e111f6052d3f3584b2fab5	ЛДПР	Ф	Фургал Сергей Иванович	/?convocation=AAAAAAA6&deputy=99111071	764		13	800
+50e111f6052d3f3584b2fab3	ЕР	Ф	Федяев Павел Михайлович	/?convocation=AAAAAAA6&deputy=99112009	589		43	945
+50e111f6052d3f3584b2fac0	ЛДПР	Х	Худяков Роман Иванович	/?convocation=AAAAAAA6&deputy=99112125	577	2	10	598
+50e111f6052d3f3584b2fa28	ЕР	Н	Натхо Разиет Хамедовна	/?convocation=AAAAAAA6&deputy=99112030	590		43	944
+50e111f6052d3f3584b2fa6c	КПРФ	Р	Русских Алексей Юрьевич	/?convocation=AAAAAAA6&deputy=99111037	652	2	93	830
+50e111f6052d3f3584b2f9b6	СР	И	Ильковский Константин Константинович	/?convocation=AAAAAAA6&deputy=99111843	555	4	115	903
+50e111f5052d3f3584b2f939	ЕР	А	Аршба Отари Ионович	/?convocation=AAAAAAA6&deputy=99109998	596		40	941
+50e111f6052d3f3584b2f9a8	КПРФ	З	Заполев Михаил Михайлович	/?convocation=AAAAAAA6&deputy=99110022	557	4	101	915
+50e111f6052d3f3584b2f9bc	ЕР	К	Кабаева Алина Маратовна	/?convocation=AAAAAAA6&deputy=99110976	610		28	939
+50e111f6052d3f3584b2fa9e	ЕР	Т	Тен Сергей Юрьевич	/?convocation=AAAAAAA6&deputy=99112007	607		29	941
+50e111f6052d3f3584b2fa65	КПРФ	Р	Романов Валентин Степанович	/?convocation=AAAAAAA6&deputy=99105189	559	2	108	908
+50e111f6052d3f3584b2fa55	КПРФ	П	Потапов Александр Владимирович	/?convocation=AAAAAAA6&deputy=99111927	647		92	838
+50e111f5052d3f3584b2f994	ЕР	Д	Дорофеев Сергей Борисович	/?convocation=AAAAAAA6&deputy=99111826	602	2	32	941
+50e111f6052d3f3584b2fa70	ЛДПР	С	Савельев Дмитрий Иванович	/?convocation=AAAAAAA6&deputy=99111936	789	1	13	774
+50e111f5052d3f3584b2f9a0	ЛДПР	Ж	Жигарев Сергей Александрович	/?convocation=AAAAAAA6&deputy=99111833	811	3	13	750
+50e111f6052d3f3584b2fa67	СР	Р	Романович Александр Леонидович	/?convocation=AAAAAAA6&deputy=99111933	563	9	107	898
+50e111f6052d3f3584b2f9fa	СР	Л	Левичев Николай Владимирович	/?convocation=AAAAAAA6&deputy=99110997	559	1	101	916
+50e111f6052d3f3584b2f9ea	СР	К	Кузьмина Алла Владимировна	/?convocation=AAAAAAA6&deputy=99110992	652		78	847
+50e111f6052d3f3584b2fa7c	ЛДПР	С	Селезнев Валерий Сергеевич	/?convocation=AAAAAAA6&deputy=99111049	790	2	13	772
+50e111f6052d3f3584b2f9bb	ЛДПР	И	Ищенко Антон Анатольевич	/?convocation=AAAAAAA6&deputy=99111846	788	1	15	773
+50e111f5052d3f3584b2f956	СР	Б	Бурков Александр Леонидович	/?convocation=AAAAAAA6&deputy=99110925	551	2	107	917
+50e111f6052d3f3584b2fa97	КПРФ	Т	Тайсаев Казбек Куцукович	/?convocation=AAAAAAA6&deputy=99111951	702	3	84	788
+50e111f5052d3f3584b2f95a	ЛДПР	В	Вайнштейн Сергей Евгеньевич	/?convocation=AAAAAAA6&deputy=99111803	789		14	774
+50e111f5052d3f3584b2f9a5	ЛДПР	Ж	Журко Василий Васильевич	/?convocation=AAAAAAA6&deputy=99100147	761	3	13	800
+50e111f6052d3f3584b2faa4	ЕР	Т	Тимченко Вячеслав Степанович	/?convocation=AAAAAAA6&deputy=99110095	588		47	942
+50e111f6052d3f3584b2f9da	КПРФ	К	Комоедов Владимир Петрович	/?convocation=AAAAAAA6&deputy=99110987	588		97	892
+50e111f6052d3f3584b2f9de	КПРФ	К	Корниенко Алексей Викторович	/?convocation=AAAAAAA6&deputy=99110990	613	1	96	867
+50e111f6052d3f3584b2faa7	ЕР	Т	Толстопятов Василий Васильевич	/?convocation=AAAAAAA6&deputy=99111065	597	1	35	944
