@@ -239,7 +239,6 @@ class Bot:
                 r = v.get(rname, 0)
                 v[rname] = r + 1
                 factions[p['faction']] = v
-            er = factions[u'ЕР']
             o['factions'] = factions
             print factions
             self.vcoll.save(o)
@@ -260,7 +259,6 @@ class Bot:
                     self.dcoll.save(dep)
 
     def calcFactionShare(self):
-        f_data = {u"ЕР": [], u'КПРФ': [], u'ЛДПР': [], u'СР': []}
         n = 0
         for o in self.vcoll.find():
             s_data = {'yes': 0, 'no': 0, 'abstain': 0, 'absent': 0}
@@ -291,7 +289,6 @@ class Bot:
             self.vcoll.save(o)
 
     def factionStats(self):
-        keys = ['abstain', 'no', 'yes', 'absent']
         f_data = {u"ЕР": [], u'КПРФ': [], u'ЛДПР': [], u'СР': []}
         n = 0
         for o in self.vcoll.find():
@@ -331,8 +328,6 @@ class Bot:
 
     def calcIncoherent(self):
         n = 0
-        total = 0
-        nt = 0
         deputies = {}
         for o in self.vcoll.find():
             n += 1
@@ -345,7 +340,7 @@ class Bot:
             if er.get('absent') == 100:
                 #                print '- skip all absent'
                 continue
-            if er.has_key('no') and er['no'] == 100:
+            if er.get('no') == 100:
                 #                print '- skip all no'
                 continue
             for k in ['yes', 'no', 'absent', 'abstain']:
@@ -389,7 +384,6 @@ class Bot:
             print k, o
             o['vote_stats'] = v
             self.dcoll.save(o)
-        pass
 
 if __name__ == "__main__":
     bot = Bot()
