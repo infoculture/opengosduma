@@ -14,15 +14,12 @@ VOTING_ABSTAIN = 0
 
 
 def map_results(key):
-    if key == VOTING_YES:
-        return "yes"
-    if key == VOTING_NO:
-        return "no"
-    if key == VOTING_ABSENT:
-        return "absent"
-    if key == VOTING_ABSTAIN:
-        return "abstain"
-    return "unknown (%d)" % (key)
+    return {
+        VOTING_YES: "yes",
+        VOTING_NO: "no",
+        VOTING_ABSENT: "absent",
+        VOTING_ABSTAIN: "abstain"
+    }.get(key, "unknown ({0})".format(key))
 
 
 class Bot:
