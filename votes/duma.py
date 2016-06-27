@@ -1,7 +1,9 @@
 #!/usr/bin/env python
 # -*- coding: utf8 -*-
 import json
-import sys, os, mechanize
+import sys
+import os
+import mechanize
 from BeautifulSoup import BeautifulSoup
 from pymongo import Connection
 from sets import Set
@@ -12,15 +14,22 @@ VOTING_NO = 1
 VOTING_ABSENT = 2
 VOTING_ABSTAIN = 0
 
+
 def map_results(key):
-    if key == VOTING_YES: return "yes"
-    if key == VOTING_NO: return "no"
-    if key == VOTING_ABSENT: return "absent"
-    if key == VOTING_ABSTAIN: return "abstain"
-    return "unknown (%d)" %(key)
+    if key == VOTING_YES:
+        return "yes"
+    if key == VOTING_NO:
+        return "no"
+    if key == VOTING_ABSENT:
+        return "absent"
+    if key == VOTING_ABSTAIN:
+        return "abstain"
+    return "unknown (%d)" % (key)
+
 
 class Bot:
     """Duma bot"""
+
     def __init__(self):
         self.conn = Connection()
         self.db = self.conn['duma']
@@ -34,12 +43,11 @@ class Bot:
         self.dcoll.ensure_index('url', 1)
         self.vcoll.ensure_index('href', 1)
 
-
     def get_object_fields(self, prefix, object):
         fields = Set()
         for k, v in object.items():
             if type(v) == type({}):
-                fields.update(self.get_object_fields(prefix=prefix+k+'.', object=v))
+                fields.update(self.get_object_fields(prefix=prefix + k + '.', object=v))
             else:
                 fields.add(prefix + k)
         return fields
@@ -73,7 +81,6 @@ class Bot:
             v = curr
         return unicode(v)
 
-
     def db_dump(self, collname):
         print 'Dumping', collname
         f = open(collname + '.csv', 'w')
@@ -101,9 +108,10 @@ class Bot:
         for o in self.vcoll.find():
             break
             n += 1
-            print 'Processing %d' %(n)
+            print 'Processing %d' % (n)
             print '- saving voting'
-            voting = {'title' : o['title'], 'url' : o['url'], 'result' : 'success' if o['color'] == 'green' else 'failed', 'datet' : o['datet']}
+            voting = {'title': o['title'], 'url': o['url'], 'result': 'success' if o[
+                'color'] == 'green' else 'failed', 'datet': o['datet']}
             voting['voting_id'] = o['href'].rsplit('/', 1)[-1]
             voting['asozd_url'] = o['asozd_url'] if o.has_key('asozd_url') else None
             voting['number'] = o['n_url'].rsplit('=', 1)[-1] if o.has_key('n_url') else None
@@ -127,7 +135,8 @@ class Bot:
         factions = [u'ЕР', u'СР', u'КПРФ', u'ЛДПР']
         f_data = {}
         for k in factions:
-            f_data[k] = {'name' : k, 'vote_stats' : {'abstain': 0, 'absent' : 0, 'no' : 0, 'yes' : 0}, 'deputies': 0}
+            f_data[k] = {'name': k, 'vote_stats': {'abstain': 0,
+                                                   'absent': 0, 'no': 0, 'yes': 0}, 'deputies': 0}
         for d in self.dcoll.find():
             v = f_data.get(d['faction'])
             v['deputies'] += 1
@@ -152,16 +161,16 @@ class Bot:
         resp = br.open(url)
         data = resp.read()
         soup = BeautifulSoup(data)
-        tags = soup.findAll('div', attrs={'class' : 'item'})
+        tags = soup.findAll('div', attrs={'class': 'item'})
         items = []
         for tag in tags:
-            left = tag.find('div', attrs={'class' : 'item-left'})
+            left = tag.find('div', attrs={'class': 'item-left'})
             atag = left.find('a')
             item = []
             item.append(atag['href'])
             item.append(atag.text)
             item.append(VOTE_URL + atag['href'])
-            right = tag.find('div', attrs={'class' : 'item-right'})
+            right = tag.find('div', attrs={'class': 'item-right'})
             divs = right.findAll('div')
             color = divs[0]['class']
             item.append(color)
@@ -172,13 +181,14 @@ class Bot:
 
     def process(self):
         keys = ['href', 'name', 'url', 'color', 'vote_result', 'votes']
-        print '\t'.join(keys)        
+        print '\t'.join(keys)
         br = mechanize.Browser()
         for n in range(1, 159):
             br, items = self.process_listpage(br, n)
             for item in items:
-                r = self.vcoll.find_one({'href' : item[0]})
-                if r is not None: continue
+                r = self.vcoll.find_one({'href': item[0]})
+                if r is not None:
+                    continue
                 s = ('\t'.join(item)).encode('utf8')
                 val = {}
                 val['href'] = item[0]
@@ -189,22 +199,22 @@ class Bot:
                 val['vote_num'] = item[5]
                 self.vcoll.save(val)
                 print s
-                
+
     def process_page(self, br, url):
         """Process page with data about representatives"""
         resp = br.open(url)
         data = resp.read()
         soup = BeautifulSoup(data)
         text = soup.find('h1').text
-        head = soup.find('div', attrs={'class' : 'date-p'})
+        head = soup.find('div', attrs={'class': 'date-p'})
         datet = head.find('span').text
-        record = {'text' : text, 'datet' : datet}
+        record = {'text': text, 'datet': datet}
         hrefs = head.findAll('a')
         if len(hrefs) > 0:
             nurl = hrefs[0]['href']
             record['n_url'] = nurl
         if len(hrefs) > 1:
-            record['asozd_url'] = hrefs[1]['href']         
+            record['asozd_url'] = hrefs[1]['href']
         dep_t = data.split('deputiesData = ', 1)[1]
         dep_t = dep_t.split(';', 1)[0]
         jsd = json.loads(dep_t)
@@ -213,14 +223,15 @@ class Bot:
 
     def process_deep_data(self):
         """Extract data from vote pages"""
-        br = mechanize.Browser()        
-        for o in self.vcoll.find({'raw': {'$exists' : False}}):#{'processed' : {'$exists' : False}}):#{'processed' : False}):           
+        br = mechanize.Browser()
+        # {'processed' : {'$exists' : False}}):#{'processed' : False}):
+        for o in self.vcoll.find({'raw': {'$exists': False}}):
             rec = self.process_page(br, o['url'])
             o.update(rec)
             o['processed'] = True
             print o['href'], 'processed'
             self.vcoll.save(o)
-            
+
     def enrich(self):
         for o in self.vcoll.find():
             factions = {}
@@ -240,19 +251,21 @@ class Bot:
         for o in self.vcoll.find():
             for p in o['raw']:
                 name = p['sortName']
-                if name in deps: continue
+                if name in deps:
+                    continue
                 deps.append(name)
-                dep = {'name' : p['sortName'], 'faction' : p['faction'], 'letter' : p['letter'], 'url' : p['url']}
-                o = self.dcoll.find_one({'name' : dep['name']})
+                dep = {'name': p['sortName'], 'faction': p['faction'],
+                       'letter': p['letter'], 'url': p['url']}
+                o = self.dcoll.find_one({'name': dep['name']})
                 print o
                 if o is None:
                     self.dcoll.save(dep)
 
     def calcFactionShare(self):
-        f_data = {u"ЕР" : [], u'КПРФ' : [], u'ЛДПР' : [], u'СР' : []}
+        f_data = {u"ЕР": [], u'КПРФ': [], u'ЛДПР': [], u'СР': []}
         n = 0
         for o in self.vcoll.find():
-            s_data = {'yes' : 0, 'no' : 0, 'abstain' : 0, 'absent' : 0}
+            s_data = {'yes': 0, 'no': 0, 'abstain': 0, 'absent': 0}
             n += 1
             total = 0
             faction_share = {}
@@ -279,15 +292,16 @@ class Bot:
             print share_data
             self.vcoll.save(o)
 
-
     def factionStats(self):
         keys = ['abstain', 'no', 'yes', 'absent']
-        f_data = {u"ЕР" : [], u'КПРФ' : [], u'ЛДПР' : [], u'СР' : []}
+        f_data = {u"ЕР": [], u'КПРФ': [], u'ЛДПР': [], u'СР': []}
         n = 0
         for o in self.vcoll.find():
             n += 1
-            if n % 100 == 0: print n
-            if n > 200: break
+            if n % 100 == 0:
+                print n
+            if n > 200:
+                break
             for k, v in o['factions'].items():
                 f_data[k].append(v)
         for k, v in f_data.items():
@@ -314,8 +328,8 @@ class Bot:
                 print '-', vs['absent']
             if vs['absent'] > 50:
                 n += 1
-        print (100.0*n) / total
-        print (100.0*nt) / total
+        print (100.0 * n) / total
+        print (100.0 * nt) / total
 
     def calcIncoherent(self):
         n = 0
@@ -324,25 +338,27 @@ class Bot:
         deputies = {}
         for o in self.vcoll.find():
             n += 1
-            if n % 100 == 0: print 'Processing', n
+            if n % 100 == 0:
+                print 'Processing', n
             er = o['factions_share'][u'ЕР']
             if er.has_key('yes') and er['yes'] == 100:
-#                print '- skip all yes'
+                #                print '- skip all yes'
                 continue
             if er.has_key('absent') and er['absent'] == 100:
-#                print '- skip all absent'
+                #                print '- skip all absent'
                 continue
             if er.has_key('no') and er['no'] == 100:
-#                print '- skip all no'
+                #                print '- skip all no'
                 continue
             for k in ['yes', 'no', 'absent', 'abstain']:
                 er[k] = er[k] if er.has_key(k) else 0
             if er['yes'] > 50:
                 look_result = VOTING_YES
-            elif er['absent']  + er['no'] > 50:
+            elif er['absent'] + er['no'] > 50:
                 look_result = VOTING_NO
             for p in o['raw']:
-                if p['faction'] != u'ЕР': continue
+                if p['faction'] != u'ЕР':
+                    continue
                 if look_result == VOTING_YES:
                     if p['result'] in [VOTING_YES, VOTING_ABSENT]:
                         continue
@@ -357,13 +373,13 @@ class Bot:
         for k, v in deputies.items():
             print k, v
 
-
     def buildRepProfiles(self):
         deps = {}
         n = 0
         for o in self.vcoll.find():
             n += 1
-            if n % 100 == 0: print n
+            if n % 100 == 0:
+                print n
             for p in o['raw']:
                 v = deps.get(p['sortName'], {})
                 rname = map_results(p['result'])
@@ -371,7 +387,7 @@ class Bot:
                 v[rname] = r + 1
                 deps[p['sortName']] = v
         for k, v in deps.items():
-            o = self.dcoll.find_one({'name' : k})
+            o = self.dcoll.find_one({'name': k})
             print k, o
             o['vote_stats'] = v
             self.dcoll.save(o)
@@ -389,4 +405,4 @@ if __name__ == "__main__":
 #    bot.buildRepProfiles()
 #    bot.process()
 #    bot.enrich()
-#    bot.process_deep_data()  
+#    bot.process_deep_data()
