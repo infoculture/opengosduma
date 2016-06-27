@@ -1,8 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf8 -*-
 import json
-import sys
-import os
 import mechanize
 from BeautifulSoup import BeautifulSoup
 from pymongo import Connection
