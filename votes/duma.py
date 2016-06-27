@@ -339,10 +339,10 @@ class Bot:
             if n % 100 == 0:
                 print 'Processing', n
             er = o['factions_share'][u'ЕР']
-            if er.has_key('yes') and er['yes'] == 100:
+            if er.get('yes') == 100:
                 #                print '- skip all yes'
                 continue
-            if er.has_key('absent') and er['absent'] == 100:
+            if er.get('absent') == 100:
                 #                print '- skip all absent'
                 continue
             if er.has_key('no') and er['no'] == 100:
